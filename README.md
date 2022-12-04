@@ -5,7 +5,7 @@
     </head>
 
 <body>
-    <a style="font-size: 20px" href="https://github.com/Daboulch/daboulch.github.io/blob/main/IT1000Bio.html">Bio</a>
+    <a style="font-size: 20px" href="bio.html" title="Bio">Bio</a>
     <a style="font-size: 20px" href="file:///C:/Users/Daniel/Documents/Visual%20Studio/IT1000Final/IT1000Hobbies.html">Hobbies</a>
     <a style="font-size: 20px" href="file:///C:/Users/Daniel/Documents/Visual%20Studio/IT1000Final/IT1000Music.html">Music</a>
     <a style="font-size: 20px" href="file:///C:/Users/Daniel/Documents/Visual%20Studio/IT1000Final/IT1000Goals.html">Goals</a>
